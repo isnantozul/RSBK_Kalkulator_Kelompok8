@@ -1,9 +1,9 @@
-# Tugas_Kalkulator_RSBK
+# Tugas Kalkulator RSBK B
 
-Anggota Kelompok :
-- Muhammad Zulfikar Isnanto 211201140011
-- Naufal M. Shafa 21120117120011
-- Moch. Chamdan Erbono  21120117120011
+Anggota Kelompok 8 :
+- Muhammad Zulfikar Isnanto (211201140011)
+- Naufal M. Shafa (21120117120011)
+- Moch. Chamdan Erbono (21120117120011)
 
 # Screenshoot Program
 
