@@ -1,9 +1,9 @@
-# kalkulator_RSBK
+# Tugas_Kalkulator_RSBK
 
 Anggota Kelompok
-- M. Gesit Alifandi 21120117120031
-- Ikhsan Achmad 21120117130067
-- irvan rifqi S 21120117130064
+- Muhammad Zulfikar Isnanto 211201140011
+- Naufal M. Shafa 21120117120011
+- Moch. Chamdan Erbono  21120117120011
 
 # Screenshoot Program
 
